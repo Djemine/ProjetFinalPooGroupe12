@@ -1,11 +1,5 @@
 """
 ApiClient : centralise tous les appels HTTP vers le backend FastAPI.
-
-Aucune autre partie de l'application desktop ne doit importer `requests`
-directement — chaque écran (view) passe systématiquement par cette
-classe. Cela respecte le principe de responsabilité unique (SOLID) :
-un seul endroit à modifier si l'URL de l'API ou le format des échanges
-change.
 """
 
 import requests

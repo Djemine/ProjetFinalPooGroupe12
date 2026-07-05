@@ -1,6 +1,5 @@
 """
-Charte graphique partagée par tous les écrans : bleu/blanc, professionnel,
-cohérent avec l'identité d'une compagnie de transport.
+Charte graphique partagée par tous les écrans : bleu/blanc
 """
 
 BLEU_PRINCIPAL = "#1E40AF"
